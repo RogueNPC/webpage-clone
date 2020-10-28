@@ -1,3 +1,11 @@
+h3 {
+    font-size: 21px;
+}
+
+.lead {
+    font-size: 15px;
+}
+
 .hero-background-img {
     position: relative;
     background: rgba(0, 0, 0, 0);
@@ -29,7 +37,7 @@
     text-decoration-color: red;
 }
 
-.btn {
+div > .btn {
     color: white;
     background-color: red;
 }
