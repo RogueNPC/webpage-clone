@@ -26,8 +26,8 @@ h2.gamestore {
 .hero-background-img {
     position: relative;
     background: rgba(0, 0, 0, 0);
-    padding-top: 350px;
-    padding-bottom: 350px;
+    padding-top: 260px;
+    padding-bottom: 260px;
 }
   
 .hero-background-img:after {
