@@ -1,9 +1,26 @@
+h2 {
+    font-size: 29px;
+}
+
 h3 {
     font-size: 21px;
 }
 
 .lead {
     font-size: 15px;
+}
+
+.gamestore {
+    background-color: red;
+}
+
+h2.gamestore {
+    color: white;
+}
+
+.btn.gamestore {
+    color: white;
+    background-color: darkred;
 }
 
 .hero-background-img {
