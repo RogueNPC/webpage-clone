@@ -18,15 +18,27 @@
     bottom: 0;
     z-index: -1;
 }
+
+.read-more {
+    color: red;
+}
+
+.read-more-1 {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
 footer ul {
     padding: 0;
     list-style-type: none;
     justify-content: space-around;
 }
+
 .footer-nav-header {
     font-weight: bold;
     color: #222;
 }
+
 .footer-nav-link {
     font-size: 12px;
     color: #222;
