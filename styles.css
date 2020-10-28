@@ -24,8 +24,14 @@
 }
 
 .read-more-1 {
+    font-size: 12px;
     text-decoration: underline;
     text-decoration-color: red;
+}
+
+.btn {
+    color: white;
+    background-color: red;
 }
 
 footer ul {
